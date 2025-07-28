@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./piper-sample-generator",
+        "./microWakeWord"
+    ]
+}

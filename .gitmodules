@@ -1,0 +1,6 @@
+[submodule "microWakeWord"]
+	path = microWakeWord
+	url = https://github.com/kahrendt/microWakeWord.git
+[submodule "piper-sample-generator"]
+	path = piper-sample-generator
+	url = https://github.com/rhasspy/piper-sample-generator
