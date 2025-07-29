@@ -1,5 +1,0 @@
-torch
-torchaudio
-piper-phonemize-cross==1.2.1
-numpy
-webrtcvad
