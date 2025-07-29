@@ -3,7 +3,7 @@
   "wake_word": "hey eve",
   "author": "NNMavy",
   "website": "https://github.com/NNMavy/mww-models/",
-  "model": "./hey_eve.tflite",
+  "model": "hey_eve.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.75,
