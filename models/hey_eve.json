@@ -4,6 +4,7 @@
   "author": "NNMavy",
   "website": "https://github.com/NNMavy/mww-models/",
   "model": "hey_eve.tflite",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.75,
