@@ -1,0 +1,18 @@
+{    
+    "type": "micro",
+    "name": "hey_ivy_",
+    "wake_word": "hey_ivy",
+    "author": "NNMavy",
+    "website": "https://github.com/NNMavy/mww-models/",
+    "model": "hey_ivy.tflite",
+    "trained_languages": ["en"],
+    "version": 2,
+    "micro": {
+      "probability_cutoff": 0.6,
+      "feature_step_size": 10,
+      "sliding_window_size": 5,
+      "tensor_arena_size": 16384,
+      "minimum_esphome_version": "2024.7.0"
+    }
+  }
+  
