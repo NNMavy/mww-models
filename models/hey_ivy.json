@@ -1,6 +1,5 @@
 {    
     "type": "micro",
-    "name": "hey_ivy_",
     "wake_word": "hey_ivy",
     "author": "NNMavy",
     "website": "https://github.com/NNMavy/mww-models/",
@@ -14,5 +13,4 @@
       "tensor_arena_size": 16384,
       "minimum_esphome_version": "2024.7.0"
     }
-  }
-  
+}
